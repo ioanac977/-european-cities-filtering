@@ -1,0 +1,5 @@
+["Paris", "Cluj-Napoca", "Timisoara", "Barcelona", "Venetia", "Viena"]
+["Berlin", "Madrid", "Londra", "Iasi"]
+{"oddLengthCities": ["Paris", "Cluj-Napoca", "Timisoara", "Barcelona", "Venetia", "Viena"], "evenLengthCities": ["Berlin", "Madrid", "Londra", "Iasi"]}
+"Iasi Paris Viena Berlin Madrid Londra Venetia Timisoara Barcelona Cluj-Napoca"
+"Paris Cluj-Napoc Timsoar Berlin Madri Londra Barcelon Ventia Viena Iasi"
