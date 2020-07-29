@@ -1,4 +1,4 @@
-# -european-cities-filtering
+# european-cities-filtering
 european cities filtering and generating an output file with results
 
 # FEATURES 
